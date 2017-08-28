@@ -1,3 +1,5 @@
+// soulution is based on finding longest common sequence
+
 #include<bits/stdc++.h>
 using namespace std;
 #define pb push_back
