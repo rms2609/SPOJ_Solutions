@@ -1,4 +1,4 @@
-// almost like minimum coin change problem
+// almost like minimum coin change problem i edited here for dynamic pro
 #include<bits/stdc++.h>
 using namespace std;
 #define inf 99999999
