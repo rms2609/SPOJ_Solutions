@@ -1,8 +1,5 @@
 // almost like minimum coin change problem i edited here for dynamic pro
-<<<<<<< HEAD
-=======
 //3108
->>>>>>> refs/remotes/origin/master
 #include<bits/stdc++.h>
 using namespace std;
 #define inf 99999999
